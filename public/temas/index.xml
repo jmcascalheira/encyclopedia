@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas on Enciclopédia Digital de Teoria Arqueológica</title>
+    <link>/temas/</link>
+    <description>Recent content in Temas on Enciclopédia Digital de Teoria Arqueológica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language><atom:link href="/temas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nova Arqueologia</title>
+      <link>/temas/nova_arqueologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/temas/nova_arqueologia/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum interdum neque nec imperdiet. Ut nec venenatis urna, a accumsan tortor. Nullam a convallis ligula. In sed magna eu elit consequat commodo eu blandit dui. Sed molestie suscipit odio vitae ullamcorper. Morbi in lacus dolor. Donec mattis lectus non nulla condimentum semper. Integer dapibus lacus ac orci sagittis luctus a id ipsum. Vivamus vitae tortor fringilla, hendrerit massa nec, mattis nisl.</description>
+    </item>
+    
+  </channel>
+</rss>

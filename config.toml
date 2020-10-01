@@ -1,0 +1,23 @@
+baseurl = "/"
+title = "Enciclopédia Digital de Teoria Arqueológica"
+languageCode = "pt-pt"
+paginate = "90" # Number of posts per page
+theme = "Mainroad"
+
+[Params]
+  description = "" # Description of your site
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false
+  pager = true
+  post_meta = ["date"] # Order of post meta information
+  mainSections = ["about"]
+
+[Params.logo]
+  subtitle = "Coletânea de textos temáticos e biográficos sobre os fundamentos teóricos da Arqueologia" # Logo subtitle
+
+[Params.sidebar]
+  home = false   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  widgets = ["search", "taglist"] # Enable widgets in given order
+
