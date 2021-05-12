@@ -1,11 +1,11 @@
 ---
-authorbox: false
+authorbox: true
 sidebar: true
 title: "Gordon Childe"
 tags: 
   - ""
   - ""
-date: 2017-08-21
+date: 2021-05-12
 ---
 
 Segundo alguns autores (Glyn Daniel, Bruce Trigger), Gordon Childe foi o investigador que causou uma das transformações mais importantes no pensamento arqueológico do século XX, ao publicar, em 1925, The Dawn of European Civilization. Esta transformação deveu-se à utilização do conceito de cultura arqueológica o qual, como ferramenta metodológica, viria a tornar-se corrente em toda a investigação arqueológica da Pré-História na Europa. (Bicho, 2011)
