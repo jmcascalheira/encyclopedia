@@ -3,6 +3,7 @@ title = "Enciclopédia Digital de Teoria Arqueológica"
 languageCode = "pt-pt"
 paginate = "90" # Number of posts per page
 theme = "Mainroad"
+ignoreFiles = [ "^Thumbs\\.db$" ]
 
 [Params]
   description = "" # Description of your site
