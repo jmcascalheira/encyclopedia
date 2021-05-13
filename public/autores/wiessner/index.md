@@ -3,11 +3,12 @@ authorbox: false
 sidebar: true
 title: Poly Wiessner
 tags: 
-  - Etnoarqueologia
-date: 2016-08-21
+  - "Etnoarqueologia"
+date: 2021-05-13
 ---
 
 Pauline “Polly” Wiessner, é uma antropóloga americana. É Professora de Antropologia na Escola de Evolução Humana e Mudança Social na Arizona State University, Professora e Investigadora na Universidade de Utah e membro da National Academy of Sciences.
+
 Através dos seus estudos, une passado e presente, ciência e defesa de povos tradicionais na África e em Papua-Nova Guiné. 
 Nasceu em 1947 e vive em Stowe, Vermont, no nordeste dos Estados Unidos da América.
 Começou a estudar no, agora extinto, Bennett College em Millbrook, Nova Iorque, e foi posteriormente transferida para o Sarah Lawrence College em 1969, onde tirou uma licenciatura em Escrita Criativa. Wiessner lecionou na Universidade de Aarhus, Dinamarca, de 1977 a 1980 e foi assistente de pesquisa no Instituto Max Planck de Etologia Humana de 1981 a 1996. 
