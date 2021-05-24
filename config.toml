@@ -4,6 +4,8 @@ languageCode = "pt-pt"
 paginate = "90" # Number of posts per page
 theme = "Mainroad"
 ignoreFiles = [ "^Thumbs\\.db$" ]
+relativeurls= true
+
 
 [Params]
   description = "" # Description of your site
@@ -22,3 +24,8 @@ ignoreFiles = [ "^Thumbs\\.db$" ]
   single = "right" # Configure layout for single pages
   widgets = ["search", "taglist"] # Enable widgets in given order
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
